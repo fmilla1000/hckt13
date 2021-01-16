@@ -1,0 +1,27 @@
+{
+  "name": "hckt13",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fmilla1000/hckt13.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fmilla1000/hckt13/issues"
+  },
+  "homepage": "https://github.com/fmilla1000/hckt13#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.2",
+    "bootstrap": "^5.0.0-beta1"
+  },
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
