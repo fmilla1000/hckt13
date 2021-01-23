@@ -1,0 +1,25 @@
+.wrap {
+  display: flex;
+  flex-direction: column;
+  height: 100vh; }
+
+.wrap main {
+  flex-grow: 1; }
+
+.view-add {
+  align-items: center; }
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 20px; }
+
+.card .icon {
+  position: absolute;
+  margin-top: 10px; }
+
+.card .icon-left {
+  left: 10px; }
+
+.card .icon-right {
+  right: 10px; }
